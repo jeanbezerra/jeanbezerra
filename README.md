@@ -71,4 +71,5 @@
 
 <div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg" />
+    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </div>
