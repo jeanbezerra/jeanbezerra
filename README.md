@@ -65,6 +65,7 @@
 <div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img align="center" alt="img" height="64" src="http://performance4u.yaman.com.br/portal/resources/images/performance-brand-ico.png" />
 </div>
 
 ### Performance
