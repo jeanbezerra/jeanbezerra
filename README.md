@@ -46,6 +46,7 @@
 
 <div style="display: inline_block; backround: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
+    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
