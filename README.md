@@ -19,7 +19,7 @@
 
 ### Linguagens e Frameworks
 
-<div style="display: inline_block; backround: #eee !important;"><br />
+<div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
@@ -34,14 +34,14 @@
 
 ### Mobile
 
-<div style="display: inline_block; backround: #eee !important;"><br />
+<div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 </div>
 
 ### Banco de Dados
 
-<div style="display: inline_block; backround: #eee !important;"><br />
+<div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
@@ -50,7 +50,7 @@
 
 ### Devops / Cloud Native / Middleware e Infraestrutura
 
-<div style="display: inline_block; backround: #eee !important;"><br />
+<div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
@@ -61,7 +61,13 @@
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />    
 </div>
 
-<div style="display: inline_block; backround: #eee !important;"><br />
+<div style="display: inline_block; background: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+</div>
+
+### Performance
+
+<div style="display: inline_block; background: #eee !important;"><br />
+    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg" />
 </div>
