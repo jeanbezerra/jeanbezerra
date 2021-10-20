@@ -6,3 +6,5 @@
 - 📫 Como me encontrar: jcbm.contato@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancbezerra)](https://github.com/jeancbezerra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancbezerra&layout=compact)](https://github.com/jeancbezerra/github-readme-stats)
