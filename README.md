@@ -8,9 +8,14 @@
 
 <div>
 	<a href="https://gthub.com/jeancbezerra">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancbezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancbezerra&layout=compact&langs_count=16&theme=dracula" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancbezerra&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancbezerra&layout=compact&langs_count=16&graywhite" />
 	</a>
 </div>
 
 
+<div style="display: inline_block"><br />
+
+    <img align="center" alt="java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
+</div>
