@@ -58,6 +58,10 @@
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />    
+</div>
+
+<div style="display: inline_block; backround: #eee !important;"><br />
     <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img align="center" alt="img" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 </div>
