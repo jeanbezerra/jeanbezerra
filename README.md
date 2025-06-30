@@ -7,7 +7,7 @@
 
 
 <div>
-	<a href="https://github.com/jeancbezerra">
+	<a href="https://github.com/jeanbezerra">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanbezerra&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbezerra&layout=compact&langs_count=16&graywhite" />
 	</a>
